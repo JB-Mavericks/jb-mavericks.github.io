@@ -4,7 +4,7 @@ import Hero from './components/Hero';
 import Info from './components/Info';
 import Techs from './components/Techs';
 import Ui from './components/Ui';
-// import Erd from './components/Erd';
+import Erd from './components/Erd';
 
 function App() {
 
@@ -16,7 +16,7 @@ function App() {
       <Info />
       <Techs />
       <Ui />
-      {/* <Erd /> */}
+      <Erd />
       </div>
     </div>
   );
