@@ -1,23 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+// import Erd from './components/Erd';
+// import Hero from './components/Hero';
+// import Info from './components/Info';
+import Navbar from './components/Navbar';
+// import Techs from './components/Techs';
+// import Ui from './components/Ui';
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='bg-dark'>
+      <Navbar />
+      {/* <div className='xl:mx-32 lg:mx-24 md:mx-16 sm:mx-11 mx-9'> */}
+      {/* <Hero /> */}
+      {/* <Info /> */}
+      {/* <Techs /> */}
+      {/* <Ui /> */}
+      {/* <Erd /> */}
+      {/* </div> */}
     </div>
   );
 }
