@@ -3,8 +3,8 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Info from './components/Info';
 import Techs from './components/Techs';
+import Ui from './components/Ui';
 // import Erd from './components/Erd';
-// import Ui from './components/Ui';
 
 function App() {
 
@@ -15,7 +15,7 @@ function App() {
       <Hero />
       <Info />
       <Techs />
-      {/* <Ui /> */}
+      <Ui />
       {/* <Erd /> */}
       </div>
     </div>
