@@ -7,6 +7,7 @@ import Ui from './components/Ui';
 import Erd from './components/Erd';
 import Blogs from './components/Blogs';
 import Mavericks from './components/mavericks/Mavericks';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
       <Erd />
       <Blogs />
       <Mavericks />
+      <Footer />
       </div>
     </div>
   );
