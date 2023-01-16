@@ -7,7 +7,7 @@ const Mavericks = () => {
   return (
     <div>
      <Alexpy />
-     {/* <Adib /> */}
+     <Adib />
      {/* <Marzan /> */}
     </div>
   )
