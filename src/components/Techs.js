@@ -21,31 +21,31 @@ const Techs = () => {
                     </div>
                     <div className='w-28 sm:w-36 h-28 sm:h-36 bg-blackLight rounded-xl flex flex-col justify-center items-center'>
                          <img src={flutter} alt='Dart' className='w-auto h-auto' />
-                         <p className='text-white font-montserrat font-semibold text-2xl'>Dart</p>
+                         <p className='text-white font-montserrat font-semibold text-2xl'>Flutter</p>
                     </div>
                     <div className='w-28 sm:w-36 h-28 sm:h-36 bg-blackLight rounded-xl flex flex-col justify-center items-center'>
                          <img src={python} alt='Dart' className='w-auto h-auto' />
-                         <p className='text-white font-montserrat font-semibold text-2xl'>Dart</p>
+                         <p className='text-white font-montserrat font-semibold text-2xl'>Python</p>
                     </div>
                     <div className='w-28 sm:w-36 h-28 sm:h-36 bg-blackLight rounded-xl flex flex-col justify-center items-center'>
                          <img src={azure} alt='Dart' className='w-auto h-auto' />
-                         <p className='text-white font-montserrat font-semibold text-2xl'>Dart</p>
+                         <p className='text-white font-montserrat font-semibold text-2xl'>Azure</p>
                     </div>
                     <div className='w-28 sm:w-36 h-28 sm:h-36 bg-blackLight rounded-xl flex flex-col justify-center items-center'>
                          <img src={django} alt='Dart' className='w-auto h-auto' />
-                         <p className='text-white font-montserrat font-semibold text-2xl'>Dart</p>
+                         <p className='text-white font-montserrat font-semibold text-2xl'>Django</p>
                     </div>
                     <div className='w-28 sm:w-36 h-28 sm:h-36 bg-blackLight rounded-xl flex flex-col justify-center items-center'>
                          <img src={figma} alt='Dart' className='w-auto h-auto' />
-                         <p className='text-white font-montserrat font-semibold text-2xl'>Dart</p>
+                         <p className='text-white font-montserrat font-semibold text-2xl'>Figma</p>
                     </div>
                     <div className='w-28 sm:w-36 h-28 sm:h-36 bg-blackLight rounded-xl flex flex-col justify-center items-center'>
                          <img src={github} alt='Dart' className='w-auto h-auto' />
-                         <p className='text-white font-montserrat font-semibold text-2xl'>Dart</p>
+                         <p className='text-white font-montserrat font-semibold text-2xl'>GitHub</p>
                     </div>
                     <div className='w-28 sm:w-36 h-28 sm:h-36 bg-blackLight rounded-xl flex flex-col justify-center items-center'>
                          <img src={lucid} alt='Dart' className='w-auto h-auto' />
-                         <p className='text-white font-montserrat font-semibold text-2xl'>Dart</p>
+                         <p className='text-white font-montserrat font-semibold text-2xl'>Lucid</p>
                     </div>
                </div>
           </div>
