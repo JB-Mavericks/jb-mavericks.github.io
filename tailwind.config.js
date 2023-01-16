@@ -18,7 +18,9 @@ module.exports = {
       'butter' : '#ffffffb3',
       'dark' : '#272B28',
       'nav' : '#2f2e2e8a',
-      'blackLight' : '#00000040'
+      'blackLight' : '#00000040',
+      'opacityblack' : 'rgba(255, 255, 255, 0.69)',
+      'blog' : 'rgba(30, 30, 30, 1)'
     }
   },
   plugins:[],

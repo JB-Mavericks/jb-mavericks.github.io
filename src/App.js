@@ -5,6 +5,7 @@ import Info from './components/Info';
 import Techs from './components/Techs';
 import Ui from './components/Ui';
 import Erd from './components/Erd';
+import Blogs from './components/Blogs';
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
       <Techs />
       <Ui />
       <Erd />
+      <Blogs />
       </div>
     </div>
   );
