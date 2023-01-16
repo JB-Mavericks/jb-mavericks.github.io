@@ -13,7 +13,9 @@ function App() {
 
   return (
     <div className='bg-dark'>
+
       <Navbar />
+
       <div className='xl:mx-32 lg:mx-24 md:mx-16 sm:mx-11 mx-9'>
       <Hero />
       <Info />
@@ -24,6 +26,7 @@ function App() {
       <Mavericks />
       <Footer />
       </div>
+      
     </div>
   );
 }
