@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/jb-mavericks.github.io/static/css/main.054e4120.css",
-    "main.js": "/jb-mavericks.github.io/static/js/main.8a323772.js",
-    "static/js/787.d1fab3af.chunk.js": "/jb-mavericks.github.io/static/js/787.d1fab3af.chunk.js",
-    "static/media/marzan.png": "/jb-mavericks.github.io/static/media/marzan.562c651d363b9681910c.png",
-    "static/media/alexpy.png": "/jb-mavericks.github.io/static/media/alexpy.be899e08e4874e6f089d.png",
-    "static/media/adib.png": "/jb-mavericks.github.io/static/media/adib.360e8d7baef7ca4c3d9b.png",
-    "static/media/figma.svg": "/jb-mavericks.github.io/static/media/figma.b7bdd77b6c72503328cf8585c0f6580a.svg",
-    "static/media/python.svg": "/jb-mavericks.github.io/static/media/python.ecbb9bb0b0d780b0f08d62dbea9a1ee7.svg",
-    "static/media/dart.svg": "/jb-mavericks.github.io/static/media/dart.6a10c0c40599215446a587b49439a43f.svg",
-    "static/media/flutter.svg": "/jb-mavericks.github.io/static/media/flutter.e1259f3e20f3c8265e8677c1d3227994.svg",
-    "static/media/info.png": "/jb-mavericks.github.io/static/media/info.8d5ddc949e863f22200f.png",
-    "static/media/blog.png": "/jb-mavericks.github.io/static/media/blog.2a094a2cb2e6cc62ec80.png",
-    "static/media/hero.png": "/jb-mavericks.github.io/static/media/hero.57861af68451219676f5.png",
-    "static/media/github.svg": "/jb-mavericks.github.io/static/media/github.4827e3d2b1e663fc3588d3411bea867d.svg",
-    "static/media/erd.png": "/jb-mavericks.github.io/static/media/erd.0dc0f6023c3d4e878dd5.png",
-    "static/media/lucid.svg": "/jb-mavericks.github.io/static/media/lucid.fe7859c9fa486f2951d2200b73fe648b.svg",
-    "static/media/azure.svg": "/jb-mavericks.github.io/static/media/azure.d3f0bbbdb696ecdff7ddcccf1bc21345.svg",
-    "static/media/django.svg": "/jb-mavericks.github.io/static/media/django.118e0db2bd7dc381cb59865a20141376.svg",
-    "index.html": "/jb-mavericks.github.io/index.html",
-    "main.054e4120.css.map": "/jb-mavericks.github.io/static/css/main.054e4120.css.map",
-    "main.8a323772.js.map": "/jb-mavericks.github.io/static/js/main.8a323772.js.map",
-    "787.d1fab3af.chunk.js.map": "/jb-mavericks.github.io/static/js/787.d1fab3af.chunk.js.map"
+    "main.css": "/static/css/main.054e4120.css",
+    "main.js": "/static/js/main.1cac58b5.js",
+    "static/js/787.d1fab3af.chunk.js": "/static/js/787.d1fab3af.chunk.js",
+    "static/media/marzan.png": "/static/media/marzan.562c651d363b9681910c.png",
+    "static/media/alexpy.png": "/static/media/alexpy.be899e08e4874e6f089d.png",
+    "static/media/adib.png": "/static/media/adib.360e8d7baef7ca4c3d9b.png",
+    "static/media/figma.svg": "/static/media/figma.b7bdd77b6c72503328cf8585c0f6580a.svg",
+    "static/media/python.svg": "/static/media/python.ecbb9bb0b0d780b0f08d62dbea9a1ee7.svg",
+    "static/media/dart.svg": "/static/media/dart.6a10c0c40599215446a587b49439a43f.svg",
+    "static/media/flutter.svg": "/static/media/flutter.e1259f3e20f3c8265e8677c1d3227994.svg",
+    "static/media/info.png": "/static/media/info.8d5ddc949e863f22200f.png",
+    "static/media/blog.png": "/static/media/blog.2a094a2cb2e6cc62ec80.png",
+    "static/media/hero.png": "/static/media/hero.57861af68451219676f5.png",
+    "static/media/github.svg": "/static/media/github.4827e3d2b1e663fc3588d3411bea867d.svg",
+    "static/media/erd.png": "/static/media/erd.0dc0f6023c3d4e878dd5.png",
+    "static/media/lucid.svg": "/static/media/lucid.fe7859c9fa486f2951d2200b73fe648b.svg",
+    "static/media/azure.svg": "/static/media/azure.d3f0bbbdb696ecdff7ddcccf1bc21345.svg",
+    "static/media/django.svg": "/static/media/django.118e0db2bd7dc381cb59865a20141376.svg",
+    "index.html": "/index.html",
+    "main.054e4120.css.map": "/static/css/main.054e4120.css.map",
+    "main.1cac58b5.js.map": "/static/js/main.1cac58b5.js.map",
+    "787.d1fab3af.chunk.js.map": "/static/js/787.d1fab3af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.054e4120.css",
-    "static/js/main.8a323772.js"
+    "static/js/main.1cac58b5.js"
   ]
 }
