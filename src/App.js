@@ -6,6 +6,7 @@ import Techs from './components/Techs';
 import Ui from './components/Ui';
 import Erd from './components/Erd';
 import Blogs from './components/Blogs';
+import Mavericks from './components/mavericks/Mavericks';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
       <Ui />
       <Erd />
       <Blogs />
+      <Mavericks />
       </div>
     </div>
   );
