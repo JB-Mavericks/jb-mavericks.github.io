@@ -15,9 +15,9 @@ const Marzan = () => {
                <h2 className='font-roboto xl:font-black md:font-bold font-semibold text-white lg:text-2xl md:text-xl text-lg mt-4'>Marzan Bin Rahman</h2>
                <p className='font-roboto xl:font-black md:font-bold font-semibold text-sm text-opacityblack mt-1'>Linux Enthusiast | Freedom Lover | Web Dev</p>
                <div className='flex gap-x-5 text-2xl text-opacityblack mt-5'>
-                    <AiOutlineGithub />
-                    <AiFillLinkedin />
-                    <AiOutlineGlobal />
+                    <a href='https://github.com/marzan-bin-rahman' target="_blank"><AiOutlineGithub /></a>
+                    <a href='https://www.linkedin.com/in/marzan-bin-rahman-9400a0223/' target="_blank"><AiFillLinkedin /></a>
+                    <a href='https://marzan.me/' target="_blank"><AiOutlineGlobal /></a>
                </div>
                <p className='font-roboto xl:font-black md:font-bold font-semibold text-sm text-opacityblack mt-7 mb-3'>Project Contribution: </p>
                <ul className='font-roboto xl:font-black md:font-bold font-semibold text-sm text-white list-disc ml-4'>
