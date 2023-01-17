@@ -15,9 +15,9 @@ const Alexpy = () => {
      <h2 className='font-roboto xl:font-black md:font-bold font-semibold text-white lg:text-2xl md:text-xl text-lg mt-4'>AlexPy</h2>
      <p className='font-roboto xl:font-black md:font-bold font-semibold text-sm text-opacityblack mt-1'>Linux Fan | Pythonista | Technophile</p>
      <div className='flex gap-x-5 text-2xl text-opacityblack mt-5'>
-          <AiOutlineGithub />
-          <AiFillLinkedin />
-          <AiOutlineGlobal />
+          <a href='https://github.com/alex-pythonista/' target="_blank"><AiOutlineGithub /></a>
+          <a href='https://www.linkedin.com/in/indrajit-alex/' target="_blank"><AiFillLinkedin /></a>
+          <a href='https://www.alexpy.com/' target="_blank"><AiOutlineGlobal /></a>
      </div>
      <p className='font-roboto xl:font-black md:font-bold font-semibold text-sm text-opacityblack mt-7 mb-3'>Project Contribution: </p>
      <ul className='font-roboto xl:font-black md:font-bold font-semibold text-sm text-white list-disc ml-4'>
