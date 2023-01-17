@@ -25,7 +25,7 @@ const Alexpy = () => {
           <li>Developed the mobile app</li>
           <li>Managed and deployed the API server on Azure</li>
      </ul>
-     <h3 className='font-dancing font-normal text-xl text-white mt-4'>Dev on Fire</h3>
+     <h3 className='font-dancing font-normal text-xl text-white mt-4'>Dev on Fire &#128293;</h3>
     </div>
   )
 }

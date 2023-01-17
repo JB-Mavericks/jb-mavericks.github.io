@@ -25,7 +25,7 @@ const Adib = () => {
                     <li>Designed Database</li>
                     <li>Designer and maintainer of the API of our Application</li>
                </ul>
-               <h3 className='font-dancing font-normal text-xl text-white mt-4'>Dev on Fire</h3>
+               <h3 className='font-dancing font-normal text-xl text-white mt-4'>Materialising my plans &#127959;</h3>
           </div>
      )
 }

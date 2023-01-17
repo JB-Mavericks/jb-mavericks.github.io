@@ -26,7 +26,7 @@ const Marzan = () => {
                     <li>Designed and developed the portfolio website of our Application</li>
 
                </ul>
-               <h3 className='font-dancing font-normal text-xl text-white mt-4'>Dev on Fire</h3>
+               <h3 className='font-dancing font-normal text-xl text-white mt-4'>Analysing Websites &#128269;</h3>
           </div>
      )
 }
