@@ -10,7 +10,7 @@ import { AiOutlineGlobal } from "react-icons/ai";
 
 const Adib = () => {
      return (
-          <div className=' bg-blackLight px-6 py-8 border-greeny border-3' style={{ borderRadius: '20px' }}>
+          <div className=' bg-blackLight px-6 py-8 border-greeny border-3 hover:shadow-2xl hover:shadow-greeny hover:scale-105 transition-all duration-500 z-10' style={{ borderRadius: '20px' }}>
                <img src={adib} alt='adib' className='w-24 h-24 rounded-full border-3 border-greeny' />
                <h2 className='font-roboto xl:font-black md:font-bold font-semibold text-white lg:text-2xl md:text-xl text-lg mt-4'>Mohammed Adib</h2>
                <p className='font-roboto xl:font-black md:font-bold font-semibold text-sm text-opacityblack mt-1'>Linux Fan | Pythonista | Technophile</p>
