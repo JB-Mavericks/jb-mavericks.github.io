@@ -3,6 +3,8 @@ import React from 'react'
 import { useState } from "react";
 
 
+
+
 const Navbar = () => {
      const [navbar, setNavbar] = useState(false);
   return (
@@ -10,7 +12,7 @@ const Navbar = () => {
      <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
          <div>
              <div className="flex items-center justify-between py-3 md:py-5 md:block ">
-                 <a href="home">
+                 <a href='#hero'>
                      <h2 className="text-2xl font-bold font-amaranth">Project Jeetubhaiya</h2>
                      </a>
                  <div className="md:hidden">
@@ -59,22 +61,22 @@ const Navbar = () => {
              >
                  <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
                      <li className="text-gray-600 hover:text-blue-600">
-                         <a href="home">Home</a>
+                         <a href="#hero">Home</a>
                      </li>
                      <li className="text-gray-600 hover:text-blue-600">
-                         <a href="tech">Tech Stack</a>
+                         <a href="#tech">Tech Stack</a>
                      </li>
                      <li className="text-gray-600 hover:text-blue-600">
-                         <a href="ui">UI</a>
+                         <a href="#ui">UI</a>
                      </li>
                      <li className="text-gray-600 hover:text-blue-600">
-                         <a href="javascript:void(0)">ERD</a>
+                         <a href="#erd">ERD</a>
                      </li>
                      <li className="text-gray-600 hover:text-blue-600">
-                         <a href="javascript:void(0)">Blogs</a>
+                         <a href="#blogs">Blogs</a>
                      </li>
                      <li className="text-gray-600 hover:text-blue-600">
-                         <a href="javascript:void(0)">Developers</a>
+                         <a href="#mavericks">Developers</a>
                      </li>
                  </ul>
              </div>
